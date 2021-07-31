@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "issue-expo-updates-42",
+    "slug": "issue-expo-updates-42",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "issue-expo-updates-42"
+}
